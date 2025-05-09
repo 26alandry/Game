@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 15,
+    "palettes": {
+        "custom14": {
+            "id": "custom14",
+            "name": "Rin",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#756AA0",
+                "#403D57",
+                "#1E1B27",
+                "#FFE5EF",
+                "#7EE6FB",
+                "#5A87F2",
+                "#003FAD",
+                "#87F2FF",
+                "#2FE980",
+                "#2DD28B",
+                "#BFB3EA",
+                "#E5CDC4",
+                "#91463d",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
